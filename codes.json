@@ -1,5 +1,10 @@
 {
-  "quests_activities_text_kitchen_day1_bulb" : "ion",
-  "quests_activities_text_kitchen_day2_bulb" : "116",
-  "quests_activities_kitchen_day3_morning_code" : "579"
-}
+    // "quests_activities_text_kitchen_day1_bulb" : "ion",
+    // "quests_activities_text_kitchen_day2_bulb" : "116",
+    // "quests_activities_kitchen_day3_morning_code" : "579"
+    "quests_activities_text_living_room_day1_jenga_code" : {
+      "code" : "404", 
+      "next_task": "quests_activities_text_living_room_day1_jenga_repost",
+      "final_task": "quests_activities_living_room_day1_jenga_quest",
+    }
+  }
