@@ -1,8 +1,3 @@
 {
-    "quests_activities_text_living_room_day1_jenga_code" : {
-      "code" : "404", 
-      "next_task": "quests_activities_text_living_room_day1_jenga_repost",
-      "final_task": "quests_activities_living_room_day1_jenga_quest"
-    },
-    " quests_join_treasury_x": null
+    "quests_activities_text_living_room_day1_jenga_code" : "404"
   }
